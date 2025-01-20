@@ -1,6 +1,7 @@
 # Build outputs
 build/
 dist/
+.history/
 
 # IDE files
 nbproject/
