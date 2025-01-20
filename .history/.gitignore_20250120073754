@@ -1,0 +1,10 @@
+# Build outputs
+build/
+dist/
+
+# IDE files
+nbproject/
+
+# Generated output files
+*.manifest.mf
+build.xml
